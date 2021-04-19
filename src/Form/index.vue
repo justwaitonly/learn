@@ -28,6 +28,7 @@
       <el-checkbox label="地推活动" name="type"></el-checkbox>
       <el-checkbox label="线下主题活动" name="type"></el-checkbox>
       <el-checkbox label="单纯品牌曝光" name="type"></el-checkbox>
+      <el-checkbox label="好好学习天天向上" name="type"></el-checkbox>
     </el-checkbox-group>
   </el-form-item>
   <el-form-item label="特殊资源">

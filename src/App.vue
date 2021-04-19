@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <div>未来，你好，我是现在的自己!!!!!!!!</div>
    <index></index>
   </div>
 </template>
